@@ -3,7 +3,7 @@ These are short example EPrime Scripts
 
 This repository contains example scripts for a short, simple Continuous Performance Task and a Go Nogo task programmed in E-Prime, along with example modifications of the Go Nogo Task for EEG and MRI. 
 
-They are programmed in E-Prime 2 (EP2Pro2.0.10.356)
+They are programmed in E-Prime 2 (EP2Pro2.0.10.356) **except those with _E3 at the end of the folder, which are programmed in E-Prime 3**
 
 Although these do run and function as experiments, and are based on descriptions of tasks within two published papers, they are to be used more as example scripts of a simple experiment, and some of the modifications that could help with EEG and MRI. 
 
