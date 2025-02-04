@@ -1,0 +1,37 @@
+Test
+{Begin Comments
+
+}
+{Begin Filters
+Condition
+Go	NoGo
+
+}
+{Begin Rows
+Subject	1
+}
+{Begin Cols
+Condition	1
+}
+{Begin Data
+ExpStimulus.ACC	4
+ExpStimulus.ACC	2
+ExpStimulus.RT	4
+}
+{Begin Options
+0
+0
+1
+0
+2
+2
+1
+1
+1
+0
+70
+1
+ExpStimulus.ACC:Mean, ExpStimulus.ACC:CountNum, ExpStimulus.ACC:Count, ExpStimulus.ACC:CountNull, ExpStimulus.RT:Mean by Subject and Condition
+1
+ExpStimulus.ACC:Mean, ExpStimulus.ACC:CountNum, ExpStimulus.ACC:Count, ExpStimulus.ACC:CountNull, ExpStimulus.RT:Mean
+}
